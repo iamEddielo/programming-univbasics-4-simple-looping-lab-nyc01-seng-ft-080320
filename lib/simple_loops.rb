@@ -16,7 +16,7 @@ end
     end
   end  
   
-  output_array(array)
+  def output_array(array)
   
   
   
