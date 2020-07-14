@@ -16,5 +16,7 @@ end
     end
   end  
   
+  output_array(array)
+  
   
   
