@@ -26,7 +26,13 @@ def output_array(array)
 end
 
 def return_string_array(array)
-  array.each
+  counter = 0
+ 
+  while counter < array.length do
+    puts array.to_s[counter]
+    counter += 1
+  end
+end
 
   
   
