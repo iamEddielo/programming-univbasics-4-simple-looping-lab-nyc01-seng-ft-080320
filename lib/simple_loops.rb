@@ -13,6 +13,7 @@ end
     while counter < number do
       puts string
       counter += 1
+    end
   end  
   
   
