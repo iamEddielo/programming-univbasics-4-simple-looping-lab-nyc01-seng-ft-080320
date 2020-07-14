@@ -9,7 +9,11 @@ end
 end
   
   def loop_message_n_times(string,number)
-    
-    puts string * number
+    counter = number
+    while counter < number do
+      puts string
+      counter += 1
   end  
+  
+  
   
