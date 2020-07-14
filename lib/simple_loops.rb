@@ -9,6 +9,6 @@ end
 end
   
   def loop_message_n_times(string,number)
-    number * puts string
+    puts string.number.times
   end  
   
